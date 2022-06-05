@@ -1,0 +1,14 @@
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+
+# Include override files you do wish to add to version control using negated pa$
+# !example_override.tf
+
+# Include tfplan files to ignore the plan output of command: terraform plan -ou$
+# example: *tfplan*
+
+# Ignore CLI configuration files
+.terraformrc
+terraform.r
